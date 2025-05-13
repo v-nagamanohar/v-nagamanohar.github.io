@@ -1,0 +1,20 @@
+title: v-nagamanohar | Data Analyst Portfolio
+email: your.email@example.com
+description: >-
+  A data analyst portfolio showcasing work in analytics, dashboards, and insights.
+baseurl: "" 
+url: "https://v-nagamanohar.github.io"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: Nagamanohar
+  avatar: "/assets/images/avatar.png"
+  bio: "Data Analyst | Excel | SQL | Power BI | Python | Transforming Data into Insights"
+
+minimal_mistakes_skin: "default"
